@@ -1,0 +1,11 @@
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\bin\Debug\netcoreapp2.0\ForUbuntu.deps.json
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\bin\Debug\netcoreapp2.0\ForUbuntu.runtimeconfig.json
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\bin\Debug\netcoreapp2.0\ForUbuntu.runtimeconfig.dev.json
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\bin\Debug\netcoreapp2.0\ForUbuntu.dll
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\obj\Debug\netcoreapp2.0\ForUbuntu.csprojAssemblyReference.cache
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\obj\Debug\netcoreapp2.0\ForUbuntu.csproj.CoreCompileInputs.cache
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\obj\Debug\netcoreapp2.0\ForUbuntu.AssemblyInfoInputs.cache
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\obj\Debug\netcoreapp2.0\ForUbuntu.AssemblyInfo.cs
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\bin\Debug\netcoreapp2.0\ForUbuntu.pdb
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\obj\Debug\netcoreapp2.0\ForUbuntu.dll
+C:\Users\Gorbash88\source\repos\ForUbuntu\ForUbuntu\obj\Debug\netcoreapp2.0\ForUbuntu.pdb
